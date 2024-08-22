@@ -1,4 +1,4 @@
-name: pysamtools
+name: genomeinfo
 channels:
   - conda-forge
   - bioconda
