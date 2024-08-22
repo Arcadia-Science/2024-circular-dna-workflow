@@ -52,7 +52,7 @@ class GenomeInfo:
     def load_gff(self):
         "Load in a GFF file, keeping only the relevant lines and formatting the attributes"
         lines_to_keep = []
-        # Open the GFF file, if it's gzipped use gzip.open 
+        # Open the GFF file, if it's gzipped use gzip.open
         is_gzipped = self.gff_loc.endswith(".gz")
         if is_gzipped:
             with gzip.open(self.gff_loc, "rt", encoding="utf-8") as f:
