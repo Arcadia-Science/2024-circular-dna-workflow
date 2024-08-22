@@ -1,0 +1,10 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+PRRP3 [Hyposoter didymator ichnovirus],Hyposoter didymator ichnovirus,122,122,1%,3e-28,92.31,80,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AIK25661.1?report=genbank&log$=prottop&blast_rank=1&RID=3278EZH5013"",""AIK25661.1"")"
+PRRP2 [Hyposoter didymator ichnovirus],Hyposoter didymator ichnovirus,92.0,92.0,3%,1e-16,100.00,136,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AIK25660.1?report=genbank&log$=prottop&blast_rank=2&RID=3278EZH5013"",""AIK25660.1"")"
+hypothetical protein BgiMline_031033 [Biomphalaria glabrata],Biomphalaria glabrata,60.8,1656,1%,3e-04,35.29,440,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAK6963857.1?report=genbank&log$=prottop&blast_rank=3&RID=3278EZH5013"",""KAK6963857.1"")"
+
+
+
+		
+
+
