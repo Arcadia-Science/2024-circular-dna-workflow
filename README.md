@@ -72,6 +72,7 @@ The software dependencies within the workflow can be executed through either Doc
 
 
 After setting up your conda environment that includes installing Nextflow, you are now ready to launch the workflow.
+**IMPORTANT NOTE**: If you're using `conda` to manage your environments, please manually install `sra-tools` on your system or point your path to recognize it in your conda environment. 
 
 The input CSV samplesheet should look like the following (also see the CSV samplesheet in `inputs/`):
 ```
@@ -123,7 +124,7 @@ To instantiate the class, you can use the following code:
 ```python
 from scripts.genomeinfo import GenomeInfo
 
-genomoe_of_interest = GenomeInfo(
+genome_of_interest = GenomeInfo(
     large_insert_bam_loc='path/to/large_inserts.bam',
     large_insert_bai_loc='path/to/large_inserts.bam.bai',
     coverage_loc='path/to/filtered_coverage.txt',
