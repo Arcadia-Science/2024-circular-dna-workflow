@@ -60,7 +60,7 @@ class GenomeInfo:
                     if not line.startswith("#"):
                         lines_to_keep.append(line)
         else:
-            with open(self.gff_loc, "r") as f:
+            with open(self.gff_loc, "r") as f:  # noqa: UP015
                 for line in f:
                     if not line.startswith("#"):
                         lines_to_keep.append(line)
@@ -399,7 +399,8 @@ class GenomeInfo:
             range_lists = [
                 list(range(start, end + 1))
                 for start, end in zip(
-                    filtered_summary_df["start_range"], filtered_summary_df["end_range"]
+                    filtered_summary_df["start_range"], filtered_summary_df["end_range"], 
+                    strict=False
                 )
             ]
             range_list = list(set([item for sublist in range_lists for item in sublist]))
