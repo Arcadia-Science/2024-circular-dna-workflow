@@ -1,0 +1,7 @@
+genome_accession,genome_ftp_path,SRA_run_accession
+GCA_905319865.3_Cotesia_congregata_Chromosomal_scale_assembly,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/319/865/GCA_905319865.3_Cotesia_congregata_Chromosomal_scale_assembly,ERR3829581
+GCF_019457755.1_ASM1945775v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/457/755/GCF_019457755.1_ASM1945775v1,ERR4873282
+GCA_037952995.1_Hdid_v2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/952/995/GCA_037952995.1_Hdid_v2,SRR24090832
+GCA_037952995.1_Hdid_v2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/952/995/GCA_037952995.1_Hdid_v2,SRR24090834
+GCF_026212275.2_iyMicDemo2.1a,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/212/275/GCF_026212275.2_iyMicDemo2.1a,SRR1565751
+GCF_026212275.2_iyMicDemo2.1a,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/212/275/GCF_026212275.2_iyMicDemo2.1a,SRR2011474

@@ -1,0 +1,96 @@
+scaffold	gene_symbol	note	description	proviral_locus	proviral_segment
+Mdem_contig_4124537	orph-D2		Segment D hypothetical protein	L1	D
+Mdem_contig_4124537	orph-D3		Segment D hypothetical protein	L1	D
+Mdem_scaffold_0014	ank-N4		viral ankyrin	L3	N
+Mdem_scaffold_0014	ank-N5		viral ankyrin	L3	N
+Mdem_scaffold_0014	orph-N2		hypothetical protein	L3	N
+Mdem_scaffold_0014	ptp-N3		protein tyrosine phosphatase	L3	N
+Mdem_scaffold_0014	ptp-N4		protein tyrosine phosphatase	L3	N
+Mdem_scaffold_0014	orph-N1		hypothetical protein	L3	N
+Mdem_scaffold_0014	ank-N1		viral ankyrin	L3	N
+Mdem_scaffold_0014	ptp-N1		protein tyrosine phosphatase	L3	N
+Mdem_scaffold_0014	ptp-N2		protein tyrosine phosphatase	L3	N
+Mdem_scaffold_0014	ank-J4		viral ankyrin	L3	J
+Mdem_scaffold_0014	ptp-J2		protein tyrosine phosphatase	L3	J
+Mdem_scaffold_0014	ptp-J3		protein tyrosine phosphatase	L3	J
+Mdem_scaffold_0014	ptp-J4		protein tyrosine phosphatase	L3	J
+Mdem_scaffold_0014	ptp-J1		protein tyrosine phosphatase	L3	J
+Mdem_scaffold_0025	ptp-U1		protein tyrosine phosphatase	L8	U
+Mdem_scaffold_0025	ptp-U1		protein tyrosine phosphatase	L8	U
+Mdem_scaffold_0359	ank-V1		viral ankyrin	L2	V
+Mdem_scaffold_0359	ptp-V2		protein tyrosine phosphatase	L2	V
+Mdem_scaffold_0359	orph-V3		conserved hypothetical protein	L2	V
+Mdem_scaffold_0359	ank-V4		viral ankyrin	L2	V
+Mdem_scaffold_0359	orph-W1		conserved hypothetical protein family 5	L2	W
+Mdem_scaffold_0359	orph-E3		conserved hypothetical protein	L2	E
+Mdem_scaffold_0359	orph-E2		conserved hypothetical protein	L2	E
+Mdem_scaffold_0359	orph-C3		hypothetical protein	L2	C
+Mdem_scaffold_0359	orph-C4		conserved hypothetical protein	L2	C
+Mdem_scaffold_0359	ank-C1		viral ankyrin	L2	C
+Mdem_scaffold_0359	ank-C2		viral ankyrin	L2	C
+Mdem_scaffold_0359	orph-X1		conserved hypothetical protein	L2	X
+Mdem_scaffold_0359	orph-X2		conserved hypothetical protein	L2	X
+Mdem_scaffold_0359	orph-X3		conserved hypothetical protein	L2	X
+Mdem_scaffold_0359	orph-X4	similar to orph-E2	conserved hypothetical protein	L2	X
+Mdem_scaffold_0359	orph-X5		conserved hypothetical protein family 5, BEN domain-containing	L2	X
+Mdem_scaffold_0412	orph-H1		conserved uncharacterized protein	L4	H
+Mdem_scaffold_0412	ank-H4		viral ankyrin	L4	H
+Mdem_scaffold_0412	ptp-H3		protein tyrosine phosphatase	L4	H
+Mdem_scaffold_0412	ptp-H2		protein tyrosine phosphatase	L4	H
+Mdem_scaffold_0412	ptp-H1		protein tyrosine phosphatase	L4	H
+Mdem_scaffold_0412	ptp-H5		protein tyrosine phosphatase	L4	H
+Mdem_scaffold_0412	ptp-H4		protein tyrosine phosphatase	L4	H
+Mdem_scaffold_0446	orph-R1		conserved hypothetical protein	L5	R
+Mdem_scaffold_1462	orph-P1		conserved hypothetical protein	L1	P
+Mdem_scaffold_1462	orph-K1-1		conserved hypothetical protein	L1	K1
+Mdem_scaffold_1462	orph-K1-2		conserved hypothetical protein	L1	K1
+Mdem_scaffold_1462	orph-K1-3	similar to orph-K1	hypothetical protein	L1	K1
+Mdem_scaffold_1462	orph-K1-4		hypothetical protein	L1	K1
+Mdem_scaffold_1462	orph-K2		hypothetical protein	L1	K
+Mdem_scaffold_1462	orph-K3		hypothetical protein	L1	K
+Mdem_scaffold_1462	orph-K4		hypothetical protein	L1	K
+Mdem_scaffold_1462	orph-K1		hypothetical protein	L1	K
+Mdem_scaffold_1462	orph-Q1	similar to orph-M3	conserved hypothetical protein	L1	Q
+Mdem_scaffold_1462	orph-Q2		conserved hypothetical protein	L1	Q
+Mdem_scaffold_1462	orph-Q3		conserved hypothetical protein	L1	Q
+Mdem_scaffold_1462	orph-Q4		conserved hypothetical protein Segment Q family	L1	Q
+Mdem_scaffold_1462	orph-Q5		conserved hypothetical protein Segment Q family	L1	Q
+Mdem_scaffold_1462	orph-Q6		conserved hypothetical protein	L1	Q
+Mdem_scaffold_1462	orph-Q7		conserved hypothetical protein	L1	Q
+Mdem_scaffold_1462	orph-D5		conserved hypothetical protein	L1	D
+Mdem_scaffold_1462	orph-D6		conserved hypothetical protein	L1	D
+Mdem_scaffold_1462	orph-D7		conserved hypothetical protein	L1	D
+Mdem_scaffold_1462	orph-D8		conserved hypothetical protein	L1	D
+Mdem_scaffold_3298	orph-D9		conserved hypothetical protein	L1	D
+Mdem_scaffold_3298	orph-B1		conserved hypothetical protein family 5, BEN domain-containing	L1	B
+Mdem_scaffold_3298	orph-A3		conserved hypothetical protein family 5, BEN domain-containing	L1	A
+Mdem_scaffold_3298	orph-A4		conserved hypothetical protein	L1	A
+Mdem_scaffold_3298	orph-A1		conserved hypothetical protein	L1	A
+Mdem_scaffold_3298	orph-A2		conserved hypothetical protein	L1	A
+Mdem_scaffold_3298	orph-L1		conserved hypothetical protein	L1	L
+Mdem_scaffold_3298	orph-L4		hypothetical protein	L1	L
+Mdem_scaffold_3298	orph-L3		hypothetical protein	L1	L
+Mdem_scaffold_3298	orph-F2		hypothetical protein	L1	L
+Mdem_scaffold_3298	ank-F5		viral ankyrin	L1	F
+Mdem_scaffold_3298	ank-F4		viral ankyrin	L1	F
+Mdem_scaffold_3298	orph-F3		hypothetical protein	L1	F
+Mdem_scaffold_3298	orph-F4		conserved hypothetical protein	L1	F
+Mdem_scaffold_3298	orph-F1		conserved hypothetical protein	L1	F
+Mdem_scaffold_3298	orph-F5		hypothetical protein	L1	F
+Mdem_scaffold_3298	orph-I2		hypothetical protein	L1	I
+Mdem_scaffold_3298	orph-I3		hypothetical protein	L1	I
+Mdem_scaffold_3298	ank-I1		viral ankyrin	L1	I
+Mdem_scaffold_3298	orph-I4		conserved hypothetical protein	L1	I
+Mdem_scaffold_3298	orph-I1		conserved hypothetical protein	L1	I
+Mdem_scaffold_3298	orph-M3		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M2		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M1		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M6		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M5		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M4		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	orph-M7		conserved hypothetical protein	L1	M
+Mdem_scaffold_3298	ank-G4		viral ankyrin	L1	G
+Mdem_scaffold_3298	ank-G3		viral ankyrin	L1	G
+Mdem_scaffold_3298	orph-G3		conserved hypothetical protein	L1	G
+Mdem_scaffold_3298	orph-G2		conserved hypothetical protein	L1	G
+Mdem_scaffold_3298	glc1.8		Glc1.8	L1	O

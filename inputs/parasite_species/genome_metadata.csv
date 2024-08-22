@@ -1,0 +1,59 @@
+taxonomy,genome_accession,genome_ftp_path,SRA_run_accession,genome_size_bp,num_chromosomes,num_scaffolds,average_coverage
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR25318334,2500000000,11,7047,67
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR25318347,2500000000,11,7047,67
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR25318329,2500000000,11,7047,67
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR14626932,2500000000,11,7047,67
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR14626935,2500000000,11,7047,67
+Rhipicephalus microplus,GCF_013339725.1_ASM1333972v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/339/725/GCF_013339725.1_ASM1333972v1,SRR11263447,2500000000,11,7047,67
+Echinococcus multilocularis,GCA_000469725.3_EMULTI002,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/469/725/GCA_000469725.3_EMULTI002,SRR23725278,115000000,NA,1217,150
+Echinococcus multilocularis,GCA_000469725.3_EMULTI002,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/469/725/GCA_000469725.3_EMULTI002,SRR22558380,115000000,NA,1217,150
+Ixodes scapularis,GCF_016920785.2_ASM1692078v2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/920/785/GCF_016920785.2_ASM1692078v2,SRR13398844,2200000000,NA,648,41
+Ixodes scapularis,GCF_016920785.2_ASM1692078v2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/920/785/GCF_016920785.2_ASM1692078v2,SRR13398845,2200000000,NA,648,41
+Ixodes ricinus,GCA_037355805.1_I.ric_WGA_PrF_JU,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/355/805/GCA_037355805.1_I.ric_WGA_PrF_JU,SRR26680169,2100000000,NA,70366,94
+Ixodes ricinus,GCA_037355805.1_I.ric_WGA_PrF_JU,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/355/805/GCA_037355805.1_I.ric_WGA_PrF_JU,SRR18810686,2100000000,NA,70366,94
+Ixodes ricinus,GCA_037355805.1_I.ric_WGA_PrF_JU,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/355/805/GCA_037355805.1_I.ric_WGA_PrF_JU,SRR18810692,2100000000,NA,70366,94
+Ixodes ricinus,GCA_037355805.1_I.ric_WGA_PrF_JU,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/355/805/GCA_037355805.1_I.ric_WGA_PrF_JU,SRR18810694,2100000000,NA,70366,94
+Ixodes persulcatus,GCA_013358835.2_BIME_Iper_1.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/358/835/GCA_013358835.2_BIME_Iper_1.3,SRR25318387,1900000000,NA,11596,87
+Ixodes persulcatus,GCA_013358835.2_BIME_Iper_1.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/358/835/GCA_013358835.2_BIME_Iper_1.3,SRR25318385,1900000000,NA,11596,87
+Ixodes persulcatus,GCA_013358835.2_BIME_Iper_1.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/358/835/GCA_013358835.2_BIME_Iper_1.3,SRR25318384,1900000000,NA,11596,87
+Haemaphysalis longicornis,GCA_013339765.2_BIME_HaeL_1.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/339/765/GCA_013339765.2_BIME_HaeL_1.3,SRR12034626,2600000000,11,3885,95
+Haemaphysalis longicornis,GCA_013339765.2_BIME_HaeL_1.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/339/765/GCA_013339765.2_BIME_HaeL_1.3,SRR12034625,2600000000,11,3885,95
+Rhodnius prolixus,GCA_000181055.3_Rhodnius_prolixus-3.0.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/055/GCA_000181055.3_Rhodnius_prolixus-3.0.3,SRR15276518,706800000,NA,16537,8.3
+Rhodnius prolixus,GCA_000181055.3_Rhodnius_prolixus-3.0.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/055/GCA_000181055.3_Rhodnius_prolixus-3.0.3,SRR15276519,706800000,NA,16537,8.3
+Rhodnius prolixus,GCA_000181055.3_Rhodnius_prolixus-3.0.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/055/GCA_000181055.3_Rhodnius_prolixus-3.0.3,SRR6749969,706800000,NA,16537,8.3
+Rhodnius prolixus,GCA_000181055.3_Rhodnius_prolixus-3.0.3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/055/GCA_000181055.3_Rhodnius_prolixus-3.0.3,SRR6749978,706800000,NA,16537,8.3
+Cimex lectularius,GCF_000648675.2_Clec_2.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/648/675/GCF_000648675.2_Clec_2.1,SRR1660254,510800000,NA,1573,163.4
+Cimex lectularius,GCF_000648675.2_Clec_2.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/648/675/GCF_000648675.2_Clec_2.1,SRR6984045,510800000,NA,1573,163.4
+Cimex lectularius,GCF_000648675.2_Clec_2.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/648/675/GCF_000648675.2_Clec_2.1,SRR6985627,510800000,NA,1573,163.4
+Acanthamoeba castellanii,GCF_000313135.1_Acastellanii.strNEFF_v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/313/135/GCF_000313135.1_Acastellanii.strNEFF_v1,SRR15928354,42000000,NA,384,NA
+Acanthamoeba castellanii,GCF_000313135.1_Acastellanii.strNEFF_v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/313/135/GCF_000313135.1_Acastellanii.strNEFF_v1,SRR15928355,42000000,NA,384,NA
+Acanthamoeba castellanii,GCF_000313135.1_Acastellanii.strNEFF_v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/313/135/GCF_000313135.1_Acastellanii.strNEFF_v1,SRR648334	,42000000,NA,384,NA
+Sarcoptes scabiei,GCA_020844145.1_ASM2084414v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/844/145/GCA_020844145.1_ASM2084414v1,SRR15371646,57300000,9,9,670.3
+Sarcoptes scabiei,GCA_020844145.1_ASM2084414v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/844/145/GCA_020844145.1_ASM2084414v1,SRR15371659,57300000,9,9,670.3
+Sarcoptes scabiei,GCA_020844145.1_ASM2084414v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/844/145/GCA_020844145.1_ASM2084414v1,SRR10821146,57300000,9,9,670.3
+Ornithodoros turicata,GCF_037126465.1_ASM3712646v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/126/465/GCF_037126465.1_ASM3712646v1,SRR18960658,1100000000,10,378,30
+Calliphora vomitoria,GCA_942486065.2_idCalVomi1.2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/942/486/065/GCA_942486065.2_idCalVomi1.2,SRR11948541,707600000,6,136,54
+Trichinella pseudospiralis,GCA_001447645.1_T4_ISS176_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/645/GCA_001447645.1_T4_ISS176_r1.0,SRR14041384,49200000,NA,6594,239
+Trichinella sp. T9,GCA_001447505.1_T9_ISS409_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/505/GCA_001447505.1_T9_ISS409_r1.0,SRR14041389,49100000,NA,5752,194
+Trichinella papuae,GCA_001447755.1_T10_ISS1980_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/755/GCA_001447755.1_T10_ISS1980_r1.0,SRR14041390,46800000,NA,2542,297
+Trichinella zimbabwensis,GCA_001447665.1_T11_ISS1029_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/665/GCA_001447665.1_T11_ISS1029_r1.0,SRR14041391,50800000,NA,10839,178
+Trichinella nelsoni,GCA_001447455.1_T7_ISS37_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/455/GCA_001447455.1_T7_ISS37_r1.0,SRR14041387,47400000,NA,2969,232
+Trichinella britovi,GCA_001447585.1_T3_ISS120_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/585/GCA_001447585.1_T3_ISS120_r1.0,SRR14041383,51500000,NA,7991,276
+Trichinella sp. T8,GCA_001447745.1_T8_ISS272_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/745/GCA_001447745.1_T8_ISS272_r1.0,SRR14041388,49300000,NA,4124,246
+Trichinella murelli,GCA_002221485.1_ASM222148v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/221/485/GCA_002221485.1_ASM222148v1,SRR14041385,64700000,3,510,49
+Trichinella patagoniensis,GCA_001447655.1_T12_ISS2496_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/655/GCA_001447655.1_T12_ISS2496_r1.0,SRR14041392,49800000,NA,6623,267
+Trichinella spiralis,GCF_000181795.1_Trichinella_spiralis-3.7.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/181/795/GCF_000181795.1_Trichinella_spiralis-3.7.1,SRR14041381,63500000,NA,6863,34.6
+Trichinella nativa,GCA_001447565.2_T2_ISS10_r1.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/565/GCA_001447565.2_T2_ISS10_r1.1,SRR14041382,47200000,NA,2483,242
+Trichinella sp. T6,GCA_001447435.1_T6_ISS34_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/435/GCA_001447435.1_T6_ISS34_r1.0,SRR14041386,50900000,NA,5951,272
+Trichinella pseudospiralis,GCA_001447645.1_T4_ISS176_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/645/GCA_001447645.1_T4_ISS176_r1.0,SRR6976817,49200000,NA,6594,239
+Trichinella papuae,GCA_001447755.1_T10_ISS1980_r1.0,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/755/GCA_001447755.1_T10_ISS1980_r1.0,SRR1971673,46800000,NA,2542,297
+Cochliomyia hominovorax,GCA_004302925.2_ASM430292v2,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/302/925/GCA_004302925.2_ASM430292v2,SRR12264823,534400000,NA,521,30
+Ctenocephalides felis,GCF_003426905.1_ASM342690v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/426/905/GCF_003426905.1_ASM342690v1,SRR13621574,775500000,NA,3733,25
+Musca domestica,GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/504/385/GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,SRR650116,1000000000,NA,339,135
+Musca domestica,GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/504/385/GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,SRR650029,1000000000,NA,339,135
+Musca domestica,GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/504/385/GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,SRR4217591,1000000000,NA,339,135
+Musca domestica,GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/504/385/GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1,SRR26086468,1000000000,NA,339,135
+Schistosoma haematobium,GCF_000699445.3_UoM_Shae.V3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/445/GCF_000699445.3_UoM_Shae.V3,SRR433860,400300000,8,163,130
+Schistosoma haematobium,GCF_000699445.3_UoM_Shae.V3,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/445/GCF_000699445.3_UoM_Shae.V3,SRR433863,400300000,8,163,130
+Sarcophaga peregrina,GCA_014635995.1_ASM1463599v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/635/995/GCA_014635995.1_ASM1463599v1,SRR9722726,560700000,6,1118,104
+Sarcophaga peregrina,GCA_014635995.1_ASM1463599v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/635/995/GCA_014635995.1_ASM1463599v1,SRR8416036,560700000,6,1118,104
